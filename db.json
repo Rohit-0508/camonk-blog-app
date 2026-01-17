@@ -117,6 +117,19 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": "3751",
+      "title": "Building This Blog App – A Frontend Case Study",
+      "category": [
+        "ABOUT",
+        "FRONTEND",
+        "REACT"
+      ],
+      "description": "A short overview of how this blog application was designed and built, along with a brief introduction to the developer behind it.\n",
+      "date": "2026-01-17T08:29:54.044Z",
+      "coverImage": "",
+      "content": "This blog application was built as part of an assignment to demonstrate frontend development skills using React, TypeScript, and modern UI patterns.\n\nThe focus of this project was not just on functionality, but also on user experience. Features such as skeleton loaders, responsive layouts, client-side validation, and consistent visual design were intentionally implemented to reflect real-world product behavior.\n\nFrom a technical perspective, the application uses TanStack Query for efficient server state management, Tailwind CSS and shadcn/ui for styling, and JSON Server as a lightweight mock backend. Special care was taken to ensure smooth interactions, independent scrolling panels, and graceful handling of edge cases such as missing or broken images.\n\nI enjoy building interfaces that feel intuitive and polished, and this project reflects that approach. The goal was to keep the architecture simple, readable, and scalable while maintaining a clean user experience.\n\nIf you are reviewing this project, thank you for taking the time to explore it.\n"
     }
   ]
 }
